@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo.agencia.pt/cafe-central-lisboa-lisboa-mp9t5pp2/sitemap.xml
