@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo.agencia.pt/construcoes-silva-filhos-aveiro-mp9v9rtf/sitemap.xml
